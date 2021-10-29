@@ -1,7 +1,7 @@
 ---
 name: Beta site testing
 about: 'Thank you for submitting an issue. '
-title: "[Issue]"
+title: "[Issue] - "
 labels: ''
 assignees: cryptogap
 
