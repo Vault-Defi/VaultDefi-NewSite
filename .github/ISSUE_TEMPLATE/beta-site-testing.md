@@ -28,4 +28,4 @@ If applicable, add screenshots to help explain your problem.
  - Version [e.g. 22]
 
 
-(Click \/ here to add a screenshot)
+(Click below to add a screenshot)
