@@ -9,6 +9,7 @@ assignees: cryptogap
 
 **What page is the issue on:**
 
+**What needs to be changed/fixed/updated/etc**
 
 **Dark or Light mode:**
 
